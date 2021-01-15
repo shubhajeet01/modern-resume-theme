@@ -89,11 +89,11 @@ content:
         quote: >
           Courses-
         description: | # this will include new lines to allow paragraphs
-          Data Structure and Algorithms\n
-          Discrete Mathematics\n
-          Micro Economics\n
-          Switching Theory(Ongoing)\n
-          Probability Theory and Random Processes(Ongoing)\n
+          - Data Structure and Algorithms
+          - Discrete Mathematics
+          - Micro Economics
+          - Switching Theory(Ongoing)
+          - Probability Theory and Random Processes(Ongoing)
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
