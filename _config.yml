@@ -49,7 +49,9 @@ linkedin_username: shubhajeet-dey-455b051b1
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Shubhajeet, and I am pursuing B.Tech CSE at the Indian Institute of Technology Patna (IIT Patna). Currently, I am the Sub coordinator of the Cyber Security Department of <a href="https://njack.iitp.ac.in/index.html">NJACK</a>, Computer Science Club of IIT Patna, where my team has the responsibility to create and manage events related to Cyber Security, such as conducting Workshops for freshers.
+  Hi, my name is Shubhajeet, and I am pursuing B.Tech CSE at the Indian Institute of Technology Patna (IIT Patna).
+  Currently, I am the Sub coordinator of the Cyber Security Department of <a href="https://njack.iitp.ac.in/index.html">NJACK</a>, Computer Science Club of IIT Patna,
+  where my team has the responsibility to create and manage events related to Cyber Security, such as conducting Workshops for freshers.
   I am proficient in <mark>C/C++</mark> and <mark>Python</mark>. I also have some experience in making Computer games in <mark>Unity3D</mark> in <mark>C#</mark> language. I also know some concepts of Machine Learning and Computer Vision.
   I am interested in Software development roles as well as Information security analyst roles.
 content:
@@ -81,13 +83,14 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: IIT PATNA
+        sub_title: B.Tech CSE
+        caption: 2019 - 2023 (Expected)
         quote: >
-          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India.
+          It is recognized as an Institute of National Importance by the Government of India.
+          Computer Science Engineering (CSE) encompasses a variety of topics that relates to computation, like analysis of algorithms, programming languages, program design, software, and computer hardware.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
