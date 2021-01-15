@@ -60,17 +60,11 @@ content:
         title: Box Shooter
         link: github.com/shubhajeet01/Shooting_Game
         link_text: See project
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          A first person shooter, made with Unity 3D game engine using C# programming language.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          A first person shooter with movement control. Score points in the given time by shooting, randomly generated blocks by bullets.
+          The different blocks have different properties such as positive score, negative time, and bonus time. Added logic to it using C# scripts.
   - title: Experience
     layout: list
     content:
