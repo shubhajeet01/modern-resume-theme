@@ -82,13 +82,18 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: IIT PATNA
         sub_title: B.Tech CSE
         caption: 2019 - 2023 (Expected)
         quote: >
+          Courses-
         description: | # this will include new lines to allow paragraphs
-          
+          Data Structure and Algorithms\n
+          Discrete Mathematics\n
+          Micro Economics\n
+          Switching Theory(Ongoing)\n
+          Probability Theory and Random Processes(Ongoing)\n
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
