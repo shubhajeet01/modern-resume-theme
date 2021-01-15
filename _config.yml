@@ -12,7 +12,7 @@ email: Your email (optional)
 # email_title: Email (Email title override)
 phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+#website: Your website (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -65,7 +65,7 @@ content:
     content:
       - layout: left
         title: Box Shooter
-        link: https://github.com/shubhajeet01/Shooting_Game
+        link: "https://github.com/shubhajeet01/Shooting_Game"
         link_text: See Project
         #additional_links:
          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -87,7 +87,7 @@ content:
       - layout: right
         title: NJACK, IIT PATNA
         sub_title: Sub Coordinator
-        caption: October 2020 - present
+        caption: "October 2020 - present"
         #link: 
         quote: >
           NJACK is the Computer Science Club of IIT Patna
@@ -99,7 +99,7 @@ content:
       - layout: top-right
         title: IIT PATNA
         sub_title: B.Tech CSE
-        caption: 2019 - 2023(Expected)
+        caption: "2019 - 2023(Expected)"
       # quote: >
        #  Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
@@ -112,7 +112,7 @@ content:
       - <mark>Development Software</mark> : Android Studio, Unity 3D, Arduino IDE.
       - <mark>Web Development</mark> : HTML, CSS, MySQL.
       - <mark>Software as tool</mark> : MATLAB, Virtual Box, Sublime, VSCode, Jupyter notebook, OpenCV.
-  - title: Little More About Me :)
+  - title: "Little More About Me :)"
     layout: text
     content: |
       - I like to participate in Capture the Flag(CTFs) events.
