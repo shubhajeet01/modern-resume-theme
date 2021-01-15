@@ -91,11 +91,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India.
           It is recognized as an Institute of National Importance by the Government of India.
-  - title: A Little More About Me
+  - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      - <mark>OS</mark> : GNU/Linux, Windows ,Android.
+      - <mark>Programming Languages</mark> : C, C++, Python, C#.
+      - <mark>Development Software</mark> : Android Studio, Unity 3D, Arduino IDE.
+      - <mark>Web Development</mark> : HTML, CSS, MySQL.
+      - <mark>Software as tool</mark> : MATLAB, Virtual Box, Sublime, VSCode, Jupyter notebook, OpenCV.
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
