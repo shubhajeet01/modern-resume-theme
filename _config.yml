@@ -51,10 +51,7 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Shubhajeet, and I am pursuing B.Tech CSE at the Indian Institute of Technology Patna (IIT Patna). Currently, I am the Sub coordinator of the Cyber Security Department of <a href="https://njack.iitp.ac.in/index.html">NJACK</a>, Computer Science Club of IIT Patna, where my team has the responsibility to create and manage events related to Cyber Security, such as conducting Workshops for freshers.
   I am proficient in <mark>C/C++</mark> and <mark>Python</mark>. I also have some experience in making Computer games in <mark>Unity3D</mark> in <mark>C#</mark> language. I also know some concepts of Machine Learning and Computer Vision.
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I am interested in Software development roles as well as Information security analyst roles.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
