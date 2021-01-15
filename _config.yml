@@ -47,7 +47,7 @@ linkedin_username: shubhajeet-dey-455b051b1
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/my_photo.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Shubhajeet, and I am pursuing B.Tech CSE at the Indian Institute of Technology Patna (IIT Patna).
   Currently, I am the Sub coordinator of the Cyber Security Department of <a href="https://njack.iitp.ac.in/index.html">NJACK</a>, Computer Science Club of IIT Patna,
