@@ -86,13 +86,9 @@ content:
         title: IIT PATNA
         sub_title: B.Tech CSE
         caption: 2019 - 2023 (Expected)
-        quote: |
-          Computer Science Engineering (CSE) encompasses a variety of topics that relates to computation,
-          
-          like analysis of algorithms, programming languages, program design, software, and computer hardware.
+        quote: >
         description: | # this will include new lines to allow paragraphs
-          Indian Institute of Technology Patna is an autonomous institute of education and research in science, engineering and technology located in Patna, India.
-          It is recognized as an Institute of National Importance by the Government of India.
+          
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
