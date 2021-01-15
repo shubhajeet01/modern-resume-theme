@@ -34,10 +34,7 @@ linkedin_username: shubhajeet-dey-455b051b1
 #orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,8 +49,8 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  Hi, my name is Shubhajeet, and I am pursuing B.Tech CSE at the Indian Institute of Technology Patna (IIT Patna). Currently, I am the Sub coordinator of the Cyber Security Department of <a href="https://njack.iitp.ac.in/index.html">NJACK</a>, Computer Science Club of IIT Patna, where my team has the responsibility to create and manage events related to Cyber Security, such as conducting Workshops for freshers.
+  I am proficient in <mark>C/C++</mark> and <mark>Python</mark>. I also have some experience in making Computer games in <mark>Unity3D</mark> in <mark>C#</mark> language. I also know some concepts of Machine Learning and Computer Vision.
     - Lists
     - Tables
     - <a href="google.com">Links</a>
