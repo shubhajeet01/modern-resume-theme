@@ -99,6 +99,12 @@ content:
       - <mark>Development Software</mark> : Android Studio, Unity 3D, Arduino IDE.
       - <mark>Web Development</mark> : HTML, CSS, MySQL.
       - <mark>Software as tool</mark> : MATLAB, Virtual Box, Sublime, VSCode, Jupyter notebook, OpenCV.
+  - title: "Little More About Me :)"
+    layout: text
+    content: |
+      - I like to participate in Capture the Flag(CTFs) events.
+      - I also like to play video games such as Just Cause Franchise as well as Tomb Raider Franchise.
+      - I like cooking (but sometimes it gets messed up :-) )
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
